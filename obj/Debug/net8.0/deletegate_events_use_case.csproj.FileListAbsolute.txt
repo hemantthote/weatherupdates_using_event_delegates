@@ -1,0 +1,14 @@
+c:\SampleProjects\consoleapps\bin\Debug\net8.0\deletegate_events_use_case.exe
+c:\SampleProjects\consoleapps\bin\Debug\net8.0\deletegate_events_use_case.deps.json
+c:\SampleProjects\consoleapps\bin\Debug\net8.0\deletegate_events_use_case.runtimeconfig.json
+c:\SampleProjects\consoleapps\bin\Debug\net8.0\deletegate_events_use_case.dll
+c:\SampleProjects\consoleapps\bin\Debug\net8.0\deletegate_events_use_case.pdb
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.GeneratedMSBuildEditorConfig.editorconfig
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.AssemblyInfoInputs.cache
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.AssemblyInfo.cs
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.csproj.CoreCompileInputs.cache
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.dll
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\refint\deletegate_events_use_case.dll
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.pdb
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\deletegate_events_use_case.genruntimeconfig.cache
+c:\SampleProjects\consoleapps\obj\Debug\net8.0\ref\deletegate_events_use_case.dll
