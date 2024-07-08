@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj": {}
+    "C:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj": {}
   },
   "projects": {
-    "c:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj": {
+    "C:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj",
+        "projectUniqueName": "C:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj",
         "projectName": "deletegate_events_use_case",
-        "projectPath": "c:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj",
+        "projectPath": "C:\\SampleProjects\\consoleapps\\deletegate_events_use_case.csproj",
         "packagesPath": "C:\\Users\\hemantt\\.nuget\\packages\\",
-        "outputPath": "c:\\SampleProjects\\consoleapps\\obj\\",
+        "outputPath": "C:\\SampleProjects\\consoleapps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hemantt\\AppData\\Roaming\\NuGet\\NuGet.Config",

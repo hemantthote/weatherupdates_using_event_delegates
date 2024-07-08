@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deletegate_events_use_case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c8617eec0151d1704e08a7bc8ffd8b1bfe6c1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("deletegate_events_use_case")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deletegate_events_use_case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
